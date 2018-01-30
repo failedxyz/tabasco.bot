@@ -1,0 +1,12 @@
+{
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^1.4.0",
+    "electron-prebuilt": "^1.4.0",
+    "facebook-chat-api": "^1.2.0",
+    "npmlog": "^4.0.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
